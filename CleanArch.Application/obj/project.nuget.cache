@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "f8RWTLNfnFyGmN0Md3K8BjdT94kI7DzGv+L7q7d2XNo8jXHPqNcJv7JoOr9ox6rOsfrYrGGh2xtTvKDZUTZEeg==",
+  "success": true,
+  "projectFilePath": "D:\\NetCore\\CleanArchMvc\\CleanArch.Application\\CleanArch.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Futura\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Futura\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\Futura\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Futura\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Futura\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
